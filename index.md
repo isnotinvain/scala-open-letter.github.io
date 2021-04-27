@@ -31,6 +31,7 @@ Signed (27 April 2021):
 * Adrienne L. Travis
 * Aleksander Sumowski
 * Alex Cameron
+* Alex Levenson
 * Alex Merritt
 * April Hyacinth
 * Andrew Gustafson
@@ -54,7 +55,6 @@ Signed (27 April 2021):
 * Dragisa Krsmanovic
 * Dylan Martin
 * Eda Meadows
-* Eddie Kay
 * Erik Osheim
 * Eugene Yokota
 * Flavio Brasil
