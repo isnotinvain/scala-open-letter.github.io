@@ -31,12 +31,12 @@ Signed (27 April 2021):
 * Adrienne L. Travis
 * Aleksander Sumowski
 * Alex Cameron
+* Alex Levenson
 * Alex Merritt
 * April Hyacinth
 * Andrew Gustafson
 * Andy Scott
 * Antonio Gelameris
-* Artie Pesh-Imam
 * Bart Schuller
 * Bodil Stokke
 * Brian Clapper
@@ -82,7 +82,6 @@ Signed (27 April 2021):
 * Martijn Hoekstra
 * Mathis Randl
 * Michael Pilquist
-* Milan van der Meer
 * Miles Sabin
 * Neville Li
 * Noel Welsh
